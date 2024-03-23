@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "252b07ae928fcabc",
+    "type": "split",
+    "children": [
+      {
+        "id": "33447c74b4a97f8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98bd188446471f71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. Templates/ResumoPortuguês.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4571ce7b31d89b9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8661bb82c63551c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdb8934da3cdfdef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be5a077e14b11093",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0929df27970e3b9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 461.5
+  },
+  "right": {
+    "id": "6df7608b4483cfa8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d7b309d6bec3988f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e0e2005fdf287e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "04. Templates/ResumoPortuguês.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0099a257f481aea8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "04. Templates/ResumoPortuguês.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ce31a46b027c6748",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e39d613db5212ed",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "04. Templates/ResumoPortuguês.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "cdb8934da3cdfdef",
+  "lastOpenFiles": [
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Asterisco.md",
+    "01 - Estudos/04. Templates/desktop.ini",
+    "01 - Estudos/03. Anotações/desktop.ini",
+    "01 - Estudos/01. Página Inicial/desktop.ini",
+    "01 - Estudos/desktop.ini",
+    "01 - Estudos",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/Índice Português.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Antônimo.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/desktop.ini",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Travessão.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Colchetes.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Parênteses.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Ponto Final.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Reticências.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Ponto de Exclamação.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Ponto de Interrogação.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Dois Pontos.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Ponto e Vírgula.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Ponto.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Vírgula.md",
+    "03. Anotações/Índice de Anotações.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Sinônimo.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Denotação e Conotação.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Sentido Próprio e Figurado.md",
+    "Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/desktop.ini",
+    "Sem título/desktop.ini",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Adaptação.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Ambuiguidade.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Sequência lógico-discursiva.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Textos Publicitário.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Texto não-literário.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Gêneros Literários.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Estilo.md",
+    "Tópico Frasal/desktop.ini",
+    "05. Anexos/Pasted image 20240322193308.png",
+    "05. Anexos/Pasted image 20240322064319.png",
+    "05. Anexos/Pasted image 20240321161747.png",
+    "05. Anexos/Pasted image 20240321161655.png",
+    "05. Anexos/Pasted image 20240321160309.png",
+    "05. Anexos/Pasted image 20240321160308.png",
+    "05. Anexos/Pasted image 20240321160131.png",
+    "05. Anexos/Pasted image 20240321155903.png",
+    "05. Anexos/Pasted image 20240321155519.png",
+    "05. Anexos/Pasted image 20240321155154.png",
+    "Sem título.canvas"
+  ]
+}

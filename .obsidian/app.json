@@ -1,0 +1,23 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "foldIndent": false,
+  "showLineNumber": true,
+  "autoPairBrackets": true,
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "showIndentGuide": true,
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "useTab": true,
+  "smartIndentList": true,
+  "autoPairMarkdown": true,
+  "rightToLeft": false,
+  "propertiesInDocument": "source",
+  "showInlineTitle": true,
+  "attachmentFolderPath": "05. Anexos",
+  "tabSize": 2,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "root"
+}

@@ -1,0 +1,13 @@
+{
+  "accentColor": "#f55cf0",
+  "theme": "obsidian",
+  "interfaceFontFamily": "Inter",
+  "textFontFamily": "Arial",
+  "baseFontSize": 19,
+  "baseFontSizeAction": true,
+  "showViewHeader": true,
+  "cssTheme": "Tokyo Night",
+  "enabledCssSnippets": [
+    "obsidian"
+  ]
+}

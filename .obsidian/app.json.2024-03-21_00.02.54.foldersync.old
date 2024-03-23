@@ -1,0 +1,21 @@
+{
+  "promptDelete": false,
+  "spellcheck": false,
+  "foldIndent": false,
+  "showLineNumber": true,
+  "autoPairBrackets": true,
+  "strictLineBreaks": false,
+  "readableLineLength": true,
+  "foldHeading": true,
+  "showIndentGuide": false,
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "useTab": false,
+  "smartIndentList": false,
+  "autoPairMarkdown": true,
+  "rightToLeft": false,
+  "propertiesInDocument": "source",
+  "showInlineTitle": true,
+  "attachmentFolderPath": "Anexos",
+  "tabSize": 2
+}
