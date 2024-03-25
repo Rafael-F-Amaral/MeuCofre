@@ -4,30 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "9a0819084701d56a",
-        "type": "tabs",
-        "dimension": 44.349680170575695,
-        "children": [
-          {
-            "id": "e42e6d4de0e036c6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Proporção.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": true
-              }
-            },
-            "group": "bcfacdd7a8e5de7f"
-          }
-        ]
-      },
-      {
         "id": "bcf49cde96641fae",
         "type": "tabs",
-        "dimension": 55.65031982942431,
+        "dimension": 50,
         "children": [
           {
             "id": "95c7254fe96adae4",
@@ -35,21 +14,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Proporção.md",
+                "file": "Grandezas/Grandezas Diretamente Proporcionais.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": true
+              }
+            },
+            "group": "c6135b4ff8eba768"
+          }
+        ]
+      },
+      {
+        "id": "74b447860b3b72c3",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "b8a0536a3593b14d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Grandezas/Grandezas Diretamente Proporcionais.md",
                 "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "bcfacdd7a8e5de7f"
+            "group": "c6135b4ff8eba768"
           },
           {
-            "id": "83b1002d0420d86c",
+            "id": "32c6da12111c3745",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Matemática.pdf"
+                "file": "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila de Matemática.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": true
               }
             }
           }
@@ -103,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 495.5
   },
   "right": {
     "id": "6df7608b4483cfa8",
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Proporção.md",
+                "file": "Grandezas/Grandezas Diretamente Proporcionais.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Proporção.md",
+                "file": "Grandezas/Grandezas Diretamente Proporcionais.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Proporção.md"
+                "file": "Grandezas/Grandezas Diretamente Proporcionais.md"
               }
             }
           }
@@ -183,52 +185,51 @@
   },
   "active": "95c7254fe96adae4",
   "lastOpenFiles": [
-    "05. Anexos/Pasted image 20240324061736.png",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/Índice Matemática.md",
-    "04. Templates/Proporção.md",
+    "Grandezas/Introdução - Grandezas.md",
+    "Grandezas/Grandezas Diretamente Proporcionais.md",
+    "05. Anexos/Pasted image 20240325152524.png",
+    "05. Anexos/Pasted image 20240325145708.png",
+    "05. Anexos/Pasted image 20240325145520.png",
+    "caminho/para/a/imagem.md",
+    "03. Anotações/Notas/Adicionar Vídeo do Youtube.md",
+    "03. Anotações/Notas/Códigos MarkDown.md",
+    "caminho/para/a",
+    "caminho/para",
+    "caminho",
+    "05. Anexos/Pasted image 20240325145207.png",
+    "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila de Matemática.md",
     "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Matemática.pdf",
+    "Grandezas",
+    "Regra de 3 Simples e Composta",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/Índice Matemática.md",
+    "Regra de 3 Simples e Composta/Regra de três Composta.md",
+    "Rascunho.md",
+    "03. Anotações/Índice de Anotações.md",
+    "05. Anexos/Pasted image 20240325124723.png",
+    "05. Anexos/Pasted image 20240325115613.png",
+    "Regra de 3 Simples e Composta/Regra de três Simples.md",
+    "05. Anexos/Pasted image 20240324183155.png",
+    "05. Anexos/Pasted image 20240324182307.png",
+    "04. Templates/ResumoMatemática.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Adaptação.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Ambuiguidade.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Antônimo.md",
     "04. Templates/ResumoPortuguês.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/2. Mínimo Múltiplo Comum; Máximo Fivisor Comum/Mínimo Múltiplo Comum; Máximo Divisor Comum.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/Notas Gerais/Números Inversos.md",
+    "03. Anotações/Notas",
     "04. Templates/ResumoConhecimentosEspecíficos.md",
-    "Proporção.md",
-    "01. Página Inicial/Página Inicial.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/Índice Português - Copia.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Índice Conhecimentos Específicos.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/Notas Gerais/Operações Inversas.md",
+    "05. Anexos/Pasted image 20240324133406.png",
+    "MeuCofre/01. Página Inicial/Página Inicial.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/Notas Gerais/Quociente.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/3. Razão e Proporção/Proporção.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/1. Resolução de situações-problema/Decomposição de Número em Fatores Primos.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/1. Resolução de situações-problema/Regra de Sinais.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/3. Razão e Proporção",
+    "05. Anexos/Pasted image 20240324070930.png",
     "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Conhecimentos Específicos.pdf",
-    "Matrícula.md",
-    "Censo Escolar.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Reticências.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Sentido Próprio e Figurado.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Sequência de Fatos Ilustrados.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Sequência lógico-discursiva.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Sinônimo.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Síntese Textual.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Texto não-literário.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Textos Imagético.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Textos Publicitário.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Tipos de Discursos no Texto.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/TópicoFrasal-Paragrafação.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Travessão.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Vírgula.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Ponto Final.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Pressupostos e Subentendidos.md",
     "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Português.pdf",
-    "teste2.png",
-    "menu.png",
-    "home.png",
-    "05. Anexos/Pasted image 20240323124030.png",
-    "05. Anexos/Pasted image 20240323123942.png",
-    "05. Anexos/Pasted image 20240323123937.png",
-    "05. Anexos/Pasted image 20240323123733.png",
-    "MeuCofre/01. Página Inicial",
-    "MeuCofre",
-    "05. Anexos/Pasted image 20240323122928.png",
-    "obsidian-recovery-codes.txt",
-    "03. Anotações/obsidian-recovery-codes.txt",
-    "01. Página Inicial/desktop.ini",
-    "LICENSE",
-    "01 - Estudos/04. Templates/desktop.ini",
-    "05. Anexos/Pasted image 20240322193308.png",
-    "05. Anexos/Pasted image 20240322064319.png",
     "Sem título.canvas"
   ]
 }

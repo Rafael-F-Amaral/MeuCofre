@@ -1,8 +1,32 @@
-a {
-    color: #2978dc !important;
+.markdown-preview-view em {
+    color: orange;
+    font-weight: bold;
 }
 
-a:hover {
-    color: #acddff !important;
+
+
+.markdown-preview-view h1 {
+    color: #a4ea4f;
 }
+
+.markdown-preview-view h2 {
+    color: orange;
+}
+
+.markdown-preview-view h3 {
+    color: #d3a007;
+}
+
+.markdown-preview-view h4 {
+    color: #d0a6f4;
+}
+
+.markdown-preview-view h5 {
+    color: #59DDDD;
+}
+
+.markdown-preview-view h6 {
+    color: #ffff94
+}
+
 

@@ -3,8 +3,6 @@
 		- 1.1.1 [[Dizima Periódica e Fração Geratriz]]
 		- 1.1.2 [[Fração na Reta Numérica. Como Encontrar]]
 	- 1.2. [[Divisão]]
-		- 1.2.1. [[Razão]]
-		- 1.2.2. [[Proporção]]
 	- 1.3. [[Potenciação]]
 		- 1.3.1. [[Potencia em Fração]]
 		- 1.3.2. [[Potencia com Expoente Negativo]]
@@ -16,6 +14,11 @@
 		- 1.4.3. [[Raiz Quadrada Aproximada]]
 		- 1.4.4. [[Raiz Cúbica de Números Naturais]]
 		- 1.4.5. [[Simplificação de Radicais - Extração e Introdução de Fatores no radicando]]
-	- 1.5. [[Mínimo Múltiplo Comum; Máximo Divisor Comum]]
-- 2. <span style="color: white; font-size:25px">Resolução de Situação-Problema</span>
-
+- 2. [[Mínimo Múltiplo Comum; Máximo Divisor Comum]]
+- 3. <span style="color: white; font-size:25px">Razão e Proporção</span>
+	- 3.1. [[Razão]]
+	- 3.2. [[Proporção]]
+- 4. <span style="color: white; font-size:25px">Regra de Três</span>
+	- 4.1. [[Regra de três Simples]]
+	- 4.2. [[Regra de três Composta]]
+	- 4.3. [[Introdução - Grandezas]]
