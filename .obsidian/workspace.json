@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ata Descritiva.md",
+                "file": "Noções de protocolo e arquivo atas de conselho de classe atas de resultados finais e outros/Noções de protocolo e arquivo.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
@@ -35,8 +35,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ata Descritiva.md",
-                "mode": "source",
+                "file": "Noções de protocolo e arquivo atas de conselho de classe atas de resultados finais e outros/Noções de protocolo e arquivo.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
@@ -100,7 +100,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -120,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ata Descritiva.md",
+                "file": "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Conhecimentos Específicos.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ata Descritiva.md",
+                "file": "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Conhecimentos Específicos.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ata Descritiva.md"
+                "file": "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Conhecimentos Específicos.pdf"
               }
             }
           }
@@ -181,16 +182,19 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4add9eef41fbfd7d",
+  "active": "390b373be0ac758a",
   "lastOpenFiles": [
-    "O que e Conselho de Classe Escolar.md",
-    "Qual o Objetivo do Conselho de Classe.md",
-    "Ata Descritiva.md",
+    "Noções de protocolo e arquivo atas de conselho de classe atas de resultados finais e outros/Noções de protocolo e arquivo.md",
     "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Conhecimentos Específicos.pdf",
     "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Índice Conhecimentos Específicos.md",
+    "Livro de Registro de Classe.md",
+    "Como Fazer a Ata ou Registro de Classe.md",
+    "Como Organizar o Conselho de Classe.md",
+    "Qual o Objetivo do Conselho de Classe.md",
+    "O que e Conselho de Classe Escolar.md",
+    "Ata Descritiva.md",
     "Tipos e Cuidados com as Atas na Escola.md",
     "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Classificação Individual dos Registros Guia de Transferência Ficha Individual do Aluno e do Funcionário Histórico Escola/Ficha de Aptidão Física.md",
-    "Noções de protocolo e arquivo atas de conselho de classe atas de resultados finais e outros/Noções de protocolo e arquivo.md",
     "Noções de protocolo e arquivo atas de conselho de classe atas de resultados finais e outros",
     "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Escrituração Escolar/Requerimento da Matrícula.md",
     "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Escrituração Escolar/Diário de Classe.md",
@@ -208,11 +212,8 @@
     "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Trabalhando com Ofício.md",
     "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Declaração.md",
     "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Transferência.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Responsabilidades e Deveres.md",
     "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Escrituração Escolar/Mapa Colecionador de Canhotos.md",
     "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Escrituração Escolar",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Mapa de Coleta/Situação do Aluno².md",
     "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Mapa de Coleta",
     "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Etapas de Coleta",
     "05. Anexos/Pasted image 20240402093319.png",

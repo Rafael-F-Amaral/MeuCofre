@@ -13,4 +13,4 @@ ___________________
 - Necessidade de atualização do currículo escolar
 
 A partir de ações necessárias, é possível através dessa reunião, melhorar cada ponto, baseado no que foi possível analisar nos períodos anteriores, sendo assim, possível implementar melhorias.
-A periodização das reuniões também pode ser usado como métrica de avanço, já que é possível
+A periodização das reuniões também pode ser usado como métrica de avanço, já que é possível usar esse recurso para melhorar o que deve ser melhorado.
