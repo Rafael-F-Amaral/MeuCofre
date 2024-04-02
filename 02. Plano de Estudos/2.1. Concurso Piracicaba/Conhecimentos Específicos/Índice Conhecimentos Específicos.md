@@ -31,9 +31,9 @@
 	- 3.1. [[Tipos e Cuidados com as Atas na Escola]]
 		- 3.2.1. [[Ata de Resultados Finais]]
 		- 3.3.2. [[Ata Descritiva]]
-	- 3.4. [[O que é Conselho de Classe Escolar?]]
-	- 3.5. [[Qual o Objetivo do Conselho de Classe?]]
-	- 3.6. [[Como Organizar o Conselho de Classe?]]
+	- 3.4. [[O que e Conselho de Classe Escolar]]
+	- 3.5. [[Qual o Objetivo do Conselho de Classe]]
+	- 3.6. [[Como Organizar o Conselho de Classe]]
 	- 3.7. [[Como Fazer a Ata ou Registro de Classe?]]
 - 4. <span style="color: white; font-size:25px">Noções de protocolo e arquivo: atas de conselho de classe, atas de resultados finais e outros</span>
 	- 4.1. [[Noções de protocolo e arquivo]]

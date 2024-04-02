@@ -26,7 +26,7 @@ Existem outros tipos de atas que, por se referirem a rotinas e procedimentos pad
 
 Nesse caso, deve-se rubricar e numerar cada folha.
 Na ata não se admitem rasuras. Para ressalvar um erro constatado, usa-se a palavra DIGO depois da palavra errada, por exemplo: 
->*Aos doze dias do mês de maior, digo, do mês de junho*.
+>*As doze horas do dias do mês de maio, digo, do mês de junho*.
 
 Quando houver erro ou omissão constatado após a redação, usa-se a expressão EM TEMPO que é escrito após o texto da ATA, seguindo-se a emenda ou acrescimo, por exemplo:
 >*Em tempo onde se lê abono, leia-se abandono*.
