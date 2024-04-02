@@ -6,7 +6,7 @@
       {
         "id": "efa1d81e88ef672a",
         "type": "tabs",
-        "dimension": 41.758241758241745,
+        "dimension": 40.30322173089071,
         "children": [
           {
             "id": "4add9eef41fbfd7d",
@@ -14,45 +14,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escrituração Escolar.md",
+                "file": "Ata Descritiva.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "a6b6485c1c323b56"
-          },
-          {
-            "id": "c1fc3d223069a9cb",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
+            "group": "d9fe1a7a14bda68b"
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a97bbe1173949cac",
         "type": "tabs",
-        "dimension": 58.241758241758255,
+        "dimension": 59.69677826910929,
         "children": [
           {
-            "id": "4d5fbfed41a7e018",
+            "id": "ce0933fed75eecb8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escrituração Escolar.md",
-                "mode": "source",
+                "file": "Ata Descritiva.md",
+                "mode": "preview",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "a6b6485c1c323b56"
+            "group": "d9fe1a7a14bda68b"
           },
           {
             "id": "390b373be0ac758a",
@@ -115,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 293.5
   },
   "right": {
     "id": "6df7608b4483cfa8",
@@ -131,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Escrituração Escolar.md",
+                "file": "Ata Descritiva.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Escrituração Escolar.md",
+                "file": "Ata Descritiva.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Escrituração Escolar.md"
+                "file": "Ata Descritiva.md"
               }
             }
           }
@@ -192,53 +181,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c1fc3d223069a9cb",
+  "active": "4add9eef41fbfd7d",
   "lastOpenFiles": [
     "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Conhecimentos Específicos.pdf",
-    "Escrituração Escolar.md",
+    "Ata Descritiva.md",
     "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Índice Conhecimentos Específicos.md",
-    "Situação do Aluno².md",
-    "Mapa da Coleta.md",
-    "Educacenso.md",
-    "Censo Escolar.md",
-    "2a Etapa - Situação do Aluno.md",
-    "Sem título.md",
-    "1a Etapa - Matrícula Inicial.md",
-    "04. Templates/ResumoConhecimentosEspecíficos.md",
-    "Etapa de Coletas.md",
-    "Responsabilidades e Deveres.md",
-    "2024-W13.md",
-    "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila de Matemática.md",
-    "Rascunho.md",
-    "Grandezas/Grandezas Inversamente Proporcionais.md",
-    "03. Anotações/Notas/Códigos MarkDown.md",
+    "Tipos e Cuidados com as Atas na Escola.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Classificação Individual dos Registros Guia de Transferência Ficha Individual do Aluno e do Funcionário Histórico Escola/Ficha de Aptidão Física.md",
+    "Noções de protocolo e arquivo atas de conselho de classe atas de resultados finais e outros/Noções de protocolo e arquivo.md",
+    "Noções de protocolo e arquivo atas de conselho de classe atas de resultados finais e outros",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Escrituração Escolar/Requerimento da Matrícula.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Escrituração Escolar/Diário de Classe.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Etapas de Coleta/Etapa de Coletas.md",
+    "03. Anotações/Rascunho.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Classificação Individual dos Registros Guia de Transferência Ficha Individual do Aluno e do Funcionário Histórico Escola/Matrícula.md",
+    "caminho/para/a/imagem.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Classificação Individual dos Registros Guia de Transferência Ficha Individual do Aluno e do Funcionário Histórico Escola/Boletim dos Alunos.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Ata de Resultados Finais.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Classificação Individual dos Registros Guia de Transferência Ficha Individual do Aluno e do Funcionário Histórico Escola",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Criando um Edital.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Portaria.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Escrituração Escolar/Escrituração Escolar.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Escrituração Escolar/Diário Oficial.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Trabalhando com Ofício.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Declaração.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Transferência.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Responsabilidades e Deveres.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Escrituração Escolar/Mapa Colecionador de Canhotos.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Escrituração Escolar",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Mapa de Coleta/Situação do Aluno².md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Mapa de Coleta/Mapa da Coleta.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Mapa de Coleta",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Etapas de Coleta/Educacenso.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Noções de Censo Escolar/Etapas de Coleta",
+    "05. Anexos/Pasted image 20240402093319.png",
+    "05. Anexos/Pasted image 20240402075614.png",
+    "05. Anexos/Pasted image 20240402074121.png",
+    "05. Anexos/Pasted image 20240402070416.png",
+    "05. Anexos/Pasted image 20240402070032.png",
+    "05. Anexos/Pasted image 20240402064205.png",
     "05. Anexos/Pasted image 20240325194322.png",
-    "Grandezas/Grandezas Diretamente Proporcionais.md",
-    "Grandezas/Introdução - Grandezas.md",
     "05. Anexos/Pasted image 20240325152524.png",
     "05. Anexos/Pasted image 20240325145708.png",
     "05. Anexos/Pasted image 20240325145520.png",
-    "caminho/para/a/imagem.md",
-    "03. Anotações/Notas/Adicionar Vídeo do Youtube.md",
     "caminho/para/a",
     "caminho/para",
     "caminho",
-    "05. Anexos/Pasted image 20240325145207.png",
-    "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Matemática.pdf",
-    "Grandezas",
-    "Regra de 3 Simples e Composta",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/Índice Matemática.md",
-    "Regra de 3 Simples e Composta/Regra de três Composta.md",
-    "03. Anotações/Índice de Anotações.md",
-    "05. Anexos/Pasted image 20240325124723.png",
-    "05. Anexos/Pasted image 20240325115613.png",
-    "Regra de 3 Simples e Composta/Regra de três Simples.md",
-    "05. Anexos/Pasted image 20240324183155.png",
-    "05. Anexos/Pasted image 20240324182307.png",
-    "03. Anotações/Notas",
-    "05. Anexos/Pasted image 20240324133406.png",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/3. Razão e Proporção",
-    "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Português.pdf",
     "Sem título.canvas"
   ]
 }

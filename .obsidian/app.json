@@ -7,7 +7,7 @@
   "strictLineBreaks": false,
   "readableLineLength": true,
   "foldHeading": true,
-  "showIndentGuide": true,
+  "showIndentGuide": false,
   "defaultViewMode": "preview",
   "livePreview": false,
   "useTab": true,

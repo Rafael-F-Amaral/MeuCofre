@@ -6,5 +6,3 @@ Voltar para: [[Página Inicial]]
 Voltar para: [[Índice Conhecimentos Específicos]]
 ___________________
 ## 
-
-## Subtítulo
