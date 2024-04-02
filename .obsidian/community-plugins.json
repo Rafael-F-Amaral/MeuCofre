@@ -1,8 +1,11 @@
 [
-  "auto-template-trigger",
   "obsidian-footnotes",
   "quick-explorer",
   "OA-file-hider",
   "obsidian-git",
-  "colored-text"
+  "colored-text",
+  "obsidian-outliner",
+  "obsidian-icon-folder",
+  "obsidian-pandoc",
+  "auto-template-trigger"
 ]

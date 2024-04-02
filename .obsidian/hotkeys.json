@@ -20,5 +20,23 @@
       ],
       "key": "2"
     }
+  ],
+  "calendar:show-calendar-view": [
+    {
+      "modifiers": [],
+      "key": "F12"
+    }
+  ],
+  "calendar:open-weekly-note": [
+    {
+      "modifiers": [],
+      "key": "F11"
+    }
+  ],
+  "calendar:reveal-active-note": [
+    {
+      "modifiers": [],
+      "key": "F10"
+    }
   ]
 }

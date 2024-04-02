@@ -4,59 +4,68 @@
     "type": "split",
     "children": [
       {
-        "id": "bcf49cde96641fae",
+        "id": "efa1d81e88ef672a",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 41.758241758241745,
         "children": [
           {
-            "id": "95c7254fe96adae4",
+            "id": "4add9eef41fbfd7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grandezas/Grandezas Diretamente Proporcionais.md",
+                "file": "Escrituração Escolar.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "c6135b4ff8eba768"
+            "group": "a6b6485c1c323b56"
+          },
+          {
+            "id": "c1fc3d223069a9cb",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "74b447860b3b72c3",
+        "id": "a97bbe1173949cac",
         "type": "tabs",
-        "dimension": 50,
+        "dimension": 58.241758241758255,
         "children": [
           {
-            "id": "b8a0536a3593b14d",
+            "id": "4d5fbfed41a7e018",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grandezas/Grandezas Diretamente Proporcionais.md",
-                "mode": "preview",
+                "file": "Escrituração Escolar.md",
+                "mode": "source",
                 "backlinks": false,
                 "source": true
               }
             },
-            "group": "c6135b4ff8eba768"
+            "group": "a6b6485c1c323b56"
           },
           {
-            "id": "32c6da12111c3745",
+            "id": "390b373be0ac758a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila de Matemática.md",
-                "mode": "preview",
-                "backlinks": false,
-                "source": true
+                "file": "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Conhecimentos Específicos.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +115,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 495.5
+    "width": 200
   },
   "right": {
     "id": "6df7608b4483cfa8",
@@ -122,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grandezas/Grandezas Diretamente Proporcionais.md",
+                "file": "Escrituração Escolar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grandezas/Grandezas Diretamente Proporcionais.md",
+                "file": "Escrituração Escolar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grandezas/Grandezas Diretamente Proporcionais.md"
+                "file": "Escrituração Escolar.md"
               }
             }
           }
@@ -183,52 +192,52 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "95c7254fe96adae4",
+  "active": "c1fc3d223069a9cb",
   "lastOpenFiles": [
-    "Grandezas/Introdução - Grandezas.md",
+    "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Conhecimentos Específicos.pdf",
+    "Escrituração Escolar.md",
+    "02. Plano de Estudos/2.1. Concurso Piracicaba/Conhecimentos Específicos/Índice Conhecimentos Específicos.md",
+    "Situação do Aluno².md",
+    "Mapa da Coleta.md",
+    "Educacenso.md",
+    "Censo Escolar.md",
+    "2a Etapa - Situação do Aluno.md",
+    "Sem título.md",
+    "1a Etapa - Matrícula Inicial.md",
+    "04. Templates/ResumoConhecimentosEspecíficos.md",
+    "Etapa de Coletas.md",
+    "Responsabilidades e Deveres.md",
+    "2024-W13.md",
+    "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila de Matemática.md",
+    "Rascunho.md",
+    "Grandezas/Grandezas Inversamente Proporcionais.md",
+    "03. Anotações/Notas/Códigos MarkDown.md",
+    "05. Anexos/Pasted image 20240325194322.png",
     "Grandezas/Grandezas Diretamente Proporcionais.md",
+    "Grandezas/Introdução - Grandezas.md",
     "05. Anexos/Pasted image 20240325152524.png",
     "05. Anexos/Pasted image 20240325145708.png",
     "05. Anexos/Pasted image 20240325145520.png",
     "caminho/para/a/imagem.md",
     "03. Anotações/Notas/Adicionar Vídeo do Youtube.md",
-    "03. Anotações/Notas/Códigos MarkDown.md",
     "caminho/para/a",
     "caminho/para",
     "caminho",
     "05. Anexos/Pasted image 20240325145207.png",
-    "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila de Matemática.md",
     "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Matemática.pdf",
     "Grandezas",
     "Regra de 3 Simples e Composta",
     "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/Índice Matemática.md",
     "Regra de 3 Simples e Composta/Regra de três Composta.md",
-    "Rascunho.md",
     "03. Anotações/Índice de Anotações.md",
     "05. Anexos/Pasted image 20240325124723.png",
     "05. Anexos/Pasted image 20240325115613.png",
     "Regra de 3 Simples e Composta/Regra de três Simples.md",
     "05. Anexos/Pasted image 20240324183155.png",
     "05. Anexos/Pasted image 20240324182307.png",
-    "04. Templates/ResumoMatemática.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Adaptação.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/1. Leitura e Interpretação de Textos/Ambuiguidade.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Português/2. Sinônimos e Antônimos. Sentido Próprio e Figurado das Palavras/Antônimo.md",
-    "04. Templates/ResumoPortuguês.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/2. Mínimo Múltiplo Comum; Máximo Fivisor Comum/Mínimo Múltiplo Comum; Máximo Divisor Comum.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/Notas Gerais/Números Inversos.md",
     "03. Anotações/Notas",
-    "04. Templates/ResumoConhecimentosEspecíficos.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/Notas Gerais/Operações Inversas.md",
     "05. Anexos/Pasted image 20240324133406.png",
-    "MeuCofre/01. Página Inicial/Página Inicial.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/Notas Gerais/Quociente.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/3. Razão e Proporção/Proporção.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/1. Resolução de situações-problema/Decomposição de Número em Fatores Primos.md",
-    "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/1. Resolução de situações-problema/Regra de Sinais.md",
     "02. Plano de Estudos/2.1. Concurso Piracicaba/Matemática/3. Razão e Proporção",
-    "05. Anexos/Pasted image 20240324070930.png",
-    "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Conhecimentos Específicos.pdf",
     "05. Anexos/Apostilas/Concurso Piracicaba 22032024/Apostila Português.pdf",
     "Sem título.canvas"
   ]
